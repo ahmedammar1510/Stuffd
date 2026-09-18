@@ -12,7 +12,7 @@
    ============================================================ */
 
 var STUFFD_GA4   = "";   //  e.g. "G-ABCD1234EF"
-var STUFFD_PIXEL = "";   //  e.g. "123456789012345"
+var STUFFD_PIXEL = "1062778893475490";
 
 (function () {
   var KEY = "stuffd_consent_v1";
